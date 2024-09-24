@@ -1,3 +1,3 @@
--MCST is goated
--I make spaghetti code
--LTP 24 hoorah
+-hi
+-bye
+-LTP 24!!!
